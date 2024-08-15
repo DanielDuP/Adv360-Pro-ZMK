@@ -48,11 +48,11 @@
 
         fn {
             bindings = <
-&kp F1  &kp F2  &kp F3  &kp F4     &kp F5                &kp F6            &tog 2                                         &mo 3           &kp F7             &kp F8                 &kp F9    &kp F10  &kp F11  &kp F12
-&trans  &trans  &trans  &trans     &kp LEFT_BRACKET      &kp SLASH         &none                                          &none           &kp BACKSLASH      &kp RIGHT_BRACKET      &trans    &trans   &trans   &trans
-&trans  &trans  &trans  &kp MINUS  &kp LEFT_PARENTHESIS  &kp LESS_THAN     &none   &trans  &trans      &trans  &trans     &none           &kp GREATER_THAN   &kp RIGHT_PARENTHESIS  &kp PLUS  &trans   &trans   &trans
-&trans  &trans  &trans  &trans     &kp LEFT_BRACE        &kp SINGLE_QUOTE                  &trans      &trans                             &kp DOUBLE_QUOTES  &kp RIGHT_BRACE        &trans    &trans   &trans   &trans
-&trans  &trans  &trans  &trans     &trans                                  &trans  &trans  &trans      &trans  &kp EQUAL  &kp UNDERSCORE                     &trans                 &trans    &trans   &trans   &trans
+&kp F1  &kp F2  &kp F3  &kp F4     &kp F5                &kp F6            &tog 2                                      &mo 3           &kp F7             &kp F8                 &kp F9     &kp F10  &kp F11  &kp F12
+&trans  &trans  &trans  &trans     &kp LEFT_BRACKET      &kp SLASH         &none                                       &none           &kp BACKSLASH      &kp RIGHT_BRACKET      &kp EQUAL  &trans   &trans   &trans
+&trans  &trans  &trans  &kp MINUS  &kp LEFT_PARENTHESIS  &kp LESS_THAN     &none   &trans  &trans      &trans  &trans  &none           &kp GREATER_THAN   &kp RIGHT_PARENTHESIS  &kp PLUS   &trans   &trans   &trans
+&trans  &trans  &trans  &trans     &kp LEFT_BRACE        &kp SINGLE_QUOTE                  &trans      &trans                          &kp DOUBLE_QUOTES  &kp RIGHT_BRACE        &trans     &trans   &trans   &trans
+&trans  &trans  &trans  &trans     &trans                                  &trans  &trans  &trans      &trans  &trans  &kp UNDERSCORE                     &trans                 &trans     &trans   &trans   &trans
             >;
         };
 
